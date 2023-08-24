@@ -1,0 +1,87 @@
+/* Skills.css */
+
+.skillsSection {
+    padding: 50px 0;
+    text-align: center;
+    
+  }
+  
+  .mypro{
+    color: yellow;
+    margin-bottom: 3rem;
+  }
+  .para{
+    margin-bottom: 2rem;
+  }
+  .skillsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px; /* Increased gap for better separation */
+    margin-top: 30px; /* Increased margin */
+  }
+  
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for floating effect */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .skill:hover {
+    transform: scale(1.05); /* Hover effect to slightly enlarge on hover */
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); /* Enhanced box shadow on hover */
+  }
+  
+  .skillImg {
+    width: 80px;
+    background-color: transparent;
+  }
+  
+  .skill p {
+    margin-top: 15px; /* Adjusted margin for better spacing */
+    font-weight: bold;
+    color: black;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 768px) {
+    .skillsContainer {
+      
+      gap: 20px; /* Reduce gap on smaller screens */
+    }
+    
+    .skill {
+      width: 120px;
+      padding: 15px;
+    }
+    
+    .skillImg {
+      width: 60px;
+    }
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
