@@ -54,26 +54,50 @@ const Contact = () => {
             Submit
           </button>
           <div className="link">
-            <img
-              src="https://firebasestorage.googleapis.com/v0/b/shahmeer-s-final-portfolio.appspot.com/o/facebook-icon.png?alt=media&token=4bf3e4f3-0aa0-4741-bded-694a26465274"
-              alt="FB"
-              className="links"
-            />
-            <img
-              src="https://firebasestorage.googleapis.com/v0/b/shahmeer-s-final-portfolio.appspot.com/o/instagram.png?alt=media&token=6a5332de-2ef4-49ea-8ce5-3ffbbcf3d1e7"
-              alt="Instagram"
-              className="links"
-            />
-            <img
-              src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"
-              alt="LinkedIn"
-              className="links"
-            />
-            <img
-              src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
-              alt="Github"
-              className="links"
-            />
+            <a
+              href="https://www.facebook.com/Shahmeerk519/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://firebasestorage.googleapis.com/v0/b/shahmeer-s-final-portfolio.appspot.com/o/facebook-icon.png?alt=media&token=4bf3e4f3-0aa0-4741-bded-694a26465274"
+                alt="FB"
+                className="links"
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/shahmeer_07/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://firebasestorage.googleapis.com/v0/b/shahmeer-s-final-portfolio.appspot.com/o/instagram.png?alt=media&token=6a5332de-2ef4-49ea-8ce5-3ffbbcf3d1e7"
+                alt="Instagram"
+                className="links"
+              />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/muhammad-shahmeer-khan-a2912b223/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"
+                alt="LinkedIn"
+                className="links"
+              />
+            </a>
+            <a
+              href="https://github.com/shahmeer07"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+                alt="Github"
+                className="links"
+              />
+            </a>
           </div>
         </form>
       </div>
