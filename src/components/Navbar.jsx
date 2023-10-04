@@ -1,3 +1,4 @@
+// I have added the social media contacts at the contact.js file for a better UI/UX
 import React, { useState } from "react";
 import "./Navbar.css";
 import { Link } from "react-scroll";

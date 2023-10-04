@@ -15,14 +15,14 @@ const About = () => {
         </div>
         <div className="aboutText">
           <p>
-            Hi, I'm Shahmeer Khan, a passionate React & React Native Developer
-            based in Karachi, Pakistan. I have a strong foundation in creating
-            efficient and maintainable web applications. My journey began when I
+            Hi, I'm Shahmeer Khan, a passionate Data Engineer and Big Data
+            Aspirant based in Karachi, Pakistan. I have a strong foundation in
+            Efficient and Reliable Data Analysis. My journey began when I
             discovered my love for coding during my pre-teen days.
           </p>
           <p>
-            I specialize in crafting engaging user interfaces and interactive
-            experiences using React and React Native. With a keen eye for detail
+            I specialize in diving deep in large data sets seeking out answers
+            that help in Data driven decision making, With a keen eye for detail
             and a commitment to clean code, I strive to create exceptional
             digital solutions.
           </p>
