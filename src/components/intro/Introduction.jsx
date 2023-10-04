@@ -13,10 +13,10 @@ const Introduction = () => {
           <br /> A Software Engineer
         </span>
         <p className="introPara">
-          I am a Skilled React and React Native developer from Karachi, Pakistan
+          I am a Skilled Data Engineer and Data Analyst from Karachi, Pakistan
         </p>
         <p className="introPara">
-          I am currenly exploring the world of Web 3.0 :D
+          I am currenly exploring the world of Big Data :D
         </p>
         <Link>
           <button className="btn">
