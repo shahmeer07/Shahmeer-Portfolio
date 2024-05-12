@@ -13,10 +13,10 @@ const Introduction = () => {
           <br /> A Software Engineer
         </span>
         <p className="introPara">
-          I am a Skilled Data Engineer and Data Analyst from Karachi, Pakistan
+          I am a Skilled Software Engineer and NetSuite Technical Consultant
         </p>
         <p className="introPara">
-          I am currenly exploring the world of Big Data :D
+          I am currenly exploring more of the NetSuite Platform
         </p>
         <Link>
           <button className="btn">
